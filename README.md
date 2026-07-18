@@ -4,7 +4,6 @@ Este projeto apresenta uma **Análise Exploratória de Dados (EDA)** baseada em 
 
 A análise considera a segmentação entre o sistema de saúde **SUS** e o setor **Não-SUS**, buscando identificar padrões geográficos, diversidade de especialidades médicas e diferenças estruturais entre os dois sistemas.
 
-![img](img/eda_médicos.png)
 ---
 
 ## 🎯 Objetivo
